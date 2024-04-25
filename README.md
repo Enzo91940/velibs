@@ -1,4 +1,4 @@
-# velibs
+# velib
 
 ## Project setup
 ```
